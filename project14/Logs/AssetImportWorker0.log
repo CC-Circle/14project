@@ -9119,3 +9119,27 @@ Received Import Request.
 Start importing Assets/Plugins/TextMesh Pro/Resources/Fonts & Materials/46325 SDF.asset using Guid(07e264b81e45741cd83b0902f7abe1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a094f5a739ea2d17c9cf96879997839') in 1.471146 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 37384.521044 seconds.
+  path: Assets/Scenes/Desc.unity
+  artifactKey: Guid(1e902b2aed977480380f8c195b2cc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Desc.unity using Guid(1e902b2aed977480380f8c195b2cc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523623506747d1af05cd48796c80a52d') in 0.009505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.998025 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(da3b8add379f64142ae9657918c30dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(da3b8add379f64142ae9657918c30dbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb8b35ff658e7ba15091c3f6eea50ab0') in 0.000905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 18.126716 seconds.
+  path: Assets/Scenes/Boss.unity
+  artifactKey: Guid(39793546afdae4cd08626eca9a1901d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Boss.unity using Guid(39793546afdae4cd08626eca9a1901d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f7465ddf59ae8541ccdbf76a85e561') in 0.000632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
